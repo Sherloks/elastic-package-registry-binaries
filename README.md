@@ -1,0 +1,1 @@
+# Elastic Package Registry Windows Binaries
